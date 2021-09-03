@@ -1,0 +1,2 @@
+body{margin:0;padding:0;background:#dcdcdc}.main{display:grid;height:100vh;width:auto;-webkit-animation:loading .5s linear;animation:loading .5s linear}@-webkit-keyframes loading{0%{scale:0;-webkit-transform:scale(0)}to{scale:1;-webkit-transform:scale(1)}}@keyframes loading{0%{scale:0;-webkit-transform:scale(0)}to{scale:1;-webkit-transform:scale(1)}}
+/*# sourceMappingURL=main.31b6137c.chunk.css.map */

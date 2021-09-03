@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/teesta/static/css/main.31b6137c.chunk.css",
+    "main.js": "/teesta/static/js/main.3cb0346f.chunk.js",
+    "main.js.map": "/teesta/static/js/main.3cb0346f.chunk.js.map",
+    "runtime-main.js": "/teesta/static/js/runtime-main.78122e04.js",
+    "runtime-main.js.map": "/teesta/static/js/runtime-main.78122e04.js.map",
+    "static/js/2.3d16aa20.chunk.js": "/teesta/static/js/2.3d16aa20.chunk.js",
+    "static/js/2.3d16aa20.chunk.js.map": "/teesta/static/js/2.3d16aa20.chunk.js.map",
+    "index.html": "/teesta/index.html",
+    "precache-manifest.a07679955583d12d7e90afdf77fd4f14.js": "/teesta/precache-manifest.a07679955583d12d7e90afdf77fd4f14.js",
+    "service-worker.js": "/teesta/service-worker.js",
+    "static/css/main.31b6137c.chunk.css.map": "/teesta/static/css/main.31b6137c.chunk.css.map",
+    "static/js/2.3d16aa20.chunk.js.LICENSE.txt": "/teesta/static/js/2.3d16aa20.chunk.js.LICENSE.txt",
+    "static/media/AvenirNextLTPro-Demi.otf": "/teesta/static/media/AvenirNextLTPro-Demi.de28f71e.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78122e04.js",
+    "static/js/2.3d16aa20.chunk.js",
+    "static/css/main.31b6137c.chunk.css",
+    "static/js/main.3cb0346f.chunk.js"
+  ]
+}
