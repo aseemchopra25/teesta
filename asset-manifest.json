@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/teesta/static/css/main.31b6137c.chunk.css",
-    "main.js": "/teesta/static/js/main.de4f1142.chunk.js",
-    "main.js.map": "/teesta/static/js/main.de4f1142.chunk.js.map",
+    "main.js": "/teesta/static/js/main.c8581f45.chunk.js",
+    "main.js.map": "/teesta/static/js/main.c8581f45.chunk.js.map",
     "runtime-main.js": "/teesta/static/js/runtime-main.78122e04.js",
     "runtime-main.js.map": "/teesta/static/js/runtime-main.78122e04.js.map",
-    "static/js/2.3d16aa20.chunk.js": "/teesta/static/js/2.3d16aa20.chunk.js",
-    "static/js/2.3d16aa20.chunk.js.map": "/teesta/static/js/2.3d16aa20.chunk.js.map",
+    "static/js/2.8fe7ee76.chunk.js": "/teesta/static/js/2.8fe7ee76.chunk.js",
+    "static/js/2.8fe7ee76.chunk.js.map": "/teesta/static/js/2.8fe7ee76.chunk.js.map",
     "index.html": "/teesta/index.html",
-    "precache-manifest.b2d14ce76113fd156e311a1b9956b97e.js": "/teesta/precache-manifest.b2d14ce76113fd156e311a1b9956b97e.js",
+    "precache-manifest.bd268608146269cdff329ee553bfc045.js": "/teesta/precache-manifest.bd268608146269cdff329ee553bfc045.js",
     "service-worker.js": "/teesta/service-worker.js",
     "static/css/main.31b6137c.chunk.css.map": "/teesta/static/css/main.31b6137c.chunk.css.map",
-    "static/js/2.3d16aa20.chunk.js.LICENSE.txt": "/teesta/static/js/2.3d16aa20.chunk.js.LICENSE.txt",
+    "static/js/2.8fe7ee76.chunk.js.LICENSE.txt": "/teesta/static/js/2.8fe7ee76.chunk.js.LICENSE.txt",
     "static/media/AvenirNextLTPro-Demi.otf": "/teesta/static/media/AvenirNextLTPro-Demi.de28f71e.otf"
   },
   "entrypoints": [
     "static/js/runtime-main.78122e04.js",
-    "static/js/2.3d16aa20.chunk.js",
+    "static/js/2.8fe7ee76.chunk.js",
     "static/css/main.31b6137c.chunk.css",
-    "static/js/main.de4f1142.chunk.js"
+    "static/js/main.c8581f45.chunk.js"
   ]
 }

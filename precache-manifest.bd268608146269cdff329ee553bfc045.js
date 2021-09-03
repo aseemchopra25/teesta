@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "776a58a39442e057ee9abf3276e9a2c7",
+    "revision": "b036873d9ef8cbeb82bc45e0a3b1dd48",
     "url": "/teesta/index.html"
   },
   {
-    "revision": "8e180a5669bdb50ba3ff",
+    "revision": "5e5bfb0c6a07f0295ee3",
     "url": "/teesta/static/css/main.31b6137c.chunk.css"
   },
   {
-    "revision": "9c32f66c4f4996a89c65",
-    "url": "/teesta/static/js/2.3d16aa20.chunk.js"
+    "revision": "46cf3bb5ed233b5acd6c",
+    "url": "/teesta/static/js/2.8fe7ee76.chunk.js"
   },
   {
-    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/teesta/static/js/2.3d16aa20.chunk.js.LICENSE.txt"
+    "revision": "9c8f6fe395b66a48645c4dfa3f2afcc4",
+    "url": "/teesta/static/js/2.8fe7ee76.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8e180a5669bdb50ba3ff",
-    "url": "/teesta/static/js/main.de4f1142.chunk.js"
+    "revision": "5e5bfb0c6a07f0295ee3",
+    "url": "/teesta/static/js/main.c8581f45.chunk.js"
   },
   {
     "revision": "ee087478b57f8f11324e",

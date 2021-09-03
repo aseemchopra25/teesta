@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/teesta/precache-manifest.b2d14ce76113fd156e311a1b9956b97e.js"
+  "/teesta/precache-manifest.bd268608146269cdff329ee553bfc045.js"
 );
 
 self.addEventListener('message', (event) => {
