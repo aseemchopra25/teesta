@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/teesta/static/css/main.31b6137c.chunk.css",
-    "main.js": "/teesta/static/js/main.c8581f45.chunk.js",
-    "main.js.map": "/teesta/static/js/main.c8581f45.chunk.js.map",
+    "main.js": "/teesta/static/js/main.85925f0c.chunk.js",
+    "main.js.map": "/teesta/static/js/main.85925f0c.chunk.js.map",
     "runtime-main.js": "/teesta/static/js/runtime-main.78122e04.js",
     "runtime-main.js.map": "/teesta/static/js/runtime-main.78122e04.js.map",
     "static/js/2.8fe7ee76.chunk.js": "/teesta/static/js/2.8fe7ee76.chunk.js",
     "static/js/2.8fe7ee76.chunk.js.map": "/teesta/static/js/2.8fe7ee76.chunk.js.map",
     "index.html": "/teesta/index.html",
-    "precache-manifest.bd268608146269cdff329ee553bfc045.js": "/teesta/precache-manifest.bd268608146269cdff329ee553bfc045.js",
+    "precache-manifest.8bebe39c696a16217dc0def692492c69.js": "/teesta/precache-manifest.8bebe39c696a16217dc0def692492c69.js",
     "service-worker.js": "/teesta/service-worker.js",
     "static/css/main.31b6137c.chunk.css.map": "/teesta/static/css/main.31b6137c.chunk.css.map",
     "static/js/2.8fe7ee76.chunk.js.LICENSE.txt": "/teesta/static/js/2.8fe7ee76.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.78122e04.js",
     "static/js/2.8fe7ee76.chunk.js",
     "static/css/main.31b6137c.chunk.css",
-    "static/js/main.c8581f45.chunk.js"
+    "static/js/main.85925f0c.chunk.js"
   ]
 }
