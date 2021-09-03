@@ -7,7 +7,6 @@ const TEXT = 'Happy Birthday Teesta';
 
 const App = () => {
   const canvasRef = React.useRef(null)
-
   React.useEffect(() => {
     const canvasDivElement = canvasRef.current;
 
@@ -19,7 +18,7 @@ const App = () => {
   return (
     <div className="main">
       <div ref={canvasRef} />
-      <ParticlesBg type="fountain" bg={true} color="#494a4b"/>
+      <ParticlesBg color="#000000" num={200} type="thick" bg={true} />
     </div >
   )
 }
