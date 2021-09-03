@@ -19,7 +19,7 @@ const App = () => {
   return (
     <div className="main">
       <div ref={canvasRef} />
-      <ParticlesBg type="circle" bg={true} color="#494a4b"/>
+      <ParticlesBg type="fountain" bg={true} color="#494a4b"/>
     </div >
   )
 }
