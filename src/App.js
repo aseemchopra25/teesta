@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import sketch from './sketch';
 import p5 from 'p5';
-
+import ParticlesBg from 'particles-bg';
 const TEXT = 'Happy Birthday Teesta';
 
 const App = () => {
@@ -19,6 +19,7 @@ const App = () => {
   return (
     <div className="main">
       <div ref={canvasRef} />
+      <ParticlesBg type="circle" bg={true} color="#494a4b"/>
     </div >
   )
 }
