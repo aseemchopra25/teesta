@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9a0171e1184d822e37095a4a624ef47a",
+    "revision": "7d4c704f672445f0224063b53e8bc6ac",
     "url": "/teesta/index.html"
   },
   {
-    "revision": "2bcd7703d24a4b92ec30",
+    "revision": "7bb1655855c9f69be14b",
     "url": "/teesta/static/css/main.31b6137c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/teesta/static/js/2.8fe7ee76.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2bcd7703d24a4b92ec30",
-    "url": "/teesta/static/js/main.2051b428.chunk.js"
+    "revision": "7bb1655855c9f69be14b",
+    "url": "/teesta/static/js/main.cf2ceb98.chunk.js"
   },
   {
     "revision": "ee087478b57f8f11324e",
